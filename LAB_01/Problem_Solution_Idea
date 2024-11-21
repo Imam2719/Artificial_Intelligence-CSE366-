@@ -1,0 +1,8 @@
+-Pygame-Based Agent-Environment Simulation-
+This project is a Pygame-based simulation designed to demonstrate modular programming, object-oriented principles, and basic interactive visualizations. The simulation involves an agent that can navigate within a defined environment based on user keyboard inputs.
+
+Features: 
+Agent Movement: The agent moves in all four directions (up, down, left, right) within the boundaries of the environment.
+Boundary Constraints: The agent's movement is restricted to stay within the environment, with an optional "wrap-around" feature.
+Real-time Position Display: The agent's position is displayed on the screen for debugging and feedback.
+Dynamic Speed: Optionally, the agent's speed increases as it moves.
